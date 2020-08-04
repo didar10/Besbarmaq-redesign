@@ -1,0 +1,6 @@
+framework module Pods_Besbarmaq2 {
+  umbrella header "Pods-Besbarmaq2-umbrella.h"
+
+  export *
+  module * { export * }
+}
